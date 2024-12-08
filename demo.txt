@@ -255,7 +255,7 @@ NEWTV惊悚悬疑,
 NEWTV黑莓电影,
 NEWTV超级电视剧,
 
-iHOTv6专区,#genre#
+iHOT专区,#genre#
 iHOT爱院线,
 iHOT爱科幻,
 iHOT爱浪漫,
